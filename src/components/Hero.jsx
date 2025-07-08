@@ -26,7 +26,7 @@ function Hero() {
         </p>
         <div className="flex gap-4 justify-center">
           <a href="#projects" className="px-6 py-2 bg-pink-600 text-white rounded-full">Explore Work</a>
-          <a href="/public/resume.pdf" download className="px-6 py-2 border-2 border-pink-600 rounded-full">Résumé</a>
+          <a href="/resume.pdf" download className="px-6 py-2 border-2 border-pink-600 rounded-full">Résumé</a>
         </div>
       </motion.div>
     </section>
